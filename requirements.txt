@@ -1,0 +1,1 @@
+# stdlib only. Later: kafka-python or nats-py, sentinelsat / asf_search, geopandas
